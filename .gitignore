@@ -10,9 +10,6 @@ node_modules
 # Book build output
 _book
 
-# Source control
-_build
-
 # eBook build output
 *.epub
 *.mobi
